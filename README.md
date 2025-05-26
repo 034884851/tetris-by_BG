@@ -1,4 +1,6 @@
 請開啟巨集
+excel截圖
+<img width="1087" alt="截圖 2025-05-26 下午6 24 00" src="https://github.com/user-attachments/assets/96347780-179d-440a-bf4e-7ee8879dc1a9" />
 
 免責聲明：
 本excel僅供參考
